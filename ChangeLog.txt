@@ -160,3 +160,7 @@ All notable changes to this project will be documented in this file.
 ## 2.3.7
 
 -   Fixed border color of the exception widget
+
+## 2.3.8
+
+-   Fixed menu color

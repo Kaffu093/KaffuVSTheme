@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Cappuccino's Theme" GUID="{07faba26-77d1-442f-a913-c2dfca483444}" BaseGUID="{b1080809-b258-4b11-a838-de36d1a0d430}">
+  <Theme Name="Cappuccino's Theme" GUID="{0b6522f9-5ad6-4182-bb7c-6609cbfee6de}" BaseGUID="{b1080809-b258-4b11-a838-de36d1a0d430}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF0475CF" />
@@ -2395,7 +2395,7 @@
         <Background Type="CT_RAW" Source="FF193254" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
         <Background Type="CT_RAW" Source="FF17263E" />
