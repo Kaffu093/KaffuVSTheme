@@ -174,3 +174,7 @@ All notable changes to this project will be documented in this file.
 
 -   Changed various colors
 -   Fixed another colors to make them more visible
+
+## 2.4.1
+
+-   Fixed Visual Studio's Theme name
