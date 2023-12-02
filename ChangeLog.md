@@ -177,4 +177,20 @@ All notable changes to this project will be documented in this file.
 
 ## 2.4.1
 
--   Fixed Visual Studio's Theme name
+-   Fixed Visual Studio version display name
+
+## 2.4.2
+
+-   Changed color of selection background to make it less bright
+
+## 2.4.3
+
+-   Changed color of selection background to make it less bright
+
+## 2.4.4
+
+-   Changed color of selection background to make it less bright
+
+## 2.4.5
+
+-   Changed color of selection background to make it less bright

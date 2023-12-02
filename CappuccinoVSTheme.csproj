@@ -46,7 +46,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="CustomTheme.vstheme">
+    <None Include="CappuccinoVSTheme.vstheme">
       <SubType>Designer</SubType>
     </None>
     <None Include="source.extension.vsixmanifest">
