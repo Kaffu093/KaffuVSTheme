@@ -201,4 +201,8 @@ All notable changes to this project will be documented in this file.
 
 ## 3.0.0
 
-- Independency of Visual Studio Theme Converter
+- Independency of Visual Studio Code Theme Converter
+
+## 3.0.1
+
+- Fixed Tab Buttons

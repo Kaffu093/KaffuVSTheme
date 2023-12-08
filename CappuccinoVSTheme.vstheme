@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Cappuccino's Theme" GUID="{d201b2d5-8221-4f13-823a-c44912a83828}" BaseGUID="{ed3d6497-2c89-4332-9047-8bd0d0daf5e0}">
+  <Theme Name="Cappuccino's Theme" GUID="{142bb7b1-a244-46ff-9774-699e20e10d9f}" BaseGUID="{d201b2d5-8221-4f13-823a-c44912a83828}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF0475CF" />
@@ -1916,19 +1916,19 @@
         <Background Type="CT_RAW" Source="FF1B3F6B" />
       </Color>
       <Color Name="FileTabButtonDownInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonDownSelectedInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonDownSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="QuickCustomizeButton">
         <Background Type="CT_RAW" Source="FF18599C" />
@@ -1946,10 +1946,10 @@
         <Background Type="CT_RAW" Source="FF1B3F6B" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveBorder">
         <Background Type="CT_RAW" Source="FF1B3F6B" />
@@ -2039,40 +2039,40 @@
         <Background Type="CT_RAW" Source="FF1B3F6B" />
       </Color>
       <Color Name="FileTabButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="MainWindowButtonDown">
         <Background Type="CT_RAW" Source="FF1B3F6B" />
@@ -3503,22 +3503,22 @@
         <Background Type="CT_RAW" Source="FF666666" />
       </Color>
       <Color Name="FileTabButtonDownInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActiveGlyph">
         <Background Type="CT_RAW" Source="FFA1BBEC" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactive">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B3F6B" />
+        <Background Type="CT_RAW" Source="FF17263E" />
       </Color>
       <Color Name="FileTabButtonProvisionalSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FFBEAEF6" />
