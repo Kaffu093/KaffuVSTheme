@@ -49,6 +49,9 @@
     <None Include="CappuccinoVSTheme.vstheme">
       <SubType>Designer</SubType>
     </None>
+    <None Include="ChangeLog.md" />
+    <None Include="License.md" />
+    <None Include="ReadMe.md" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
@@ -60,6 +63,8 @@
     <PackageReference Include="Microsoft.VisualStudio.VsixColorCompiler" Version="17.0.31709.430" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitattributes" />
+    <Content Include=".gitignore" />
     <Content Include="ChangeLog.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
