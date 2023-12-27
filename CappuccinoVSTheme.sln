@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.8.34309.116
+VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CappuccinoVSTheme", "CappuccinoVSTheme\CappuccinoVSTheme.csproj", "{07FABA26-77D1-442F-A913-C2DFCA483444}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CappuccinoVSTheme", "CappuccinoVSTheme.csproj", "{07FABA26-77D1-442F-A913-C2DFCA483444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +32,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DE0BBA63-EB9F-4D3D-AF0C-9913AC47CE86}
+		SolutionGuid = {EEF8E5B4-CF16-4E85-BE75-BD4D8CB4FB5B}
 	EndGlobalSection
 EndGlobal

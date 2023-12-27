@@ -201,8 +201,29 @@ All notable changes to this project will be documented in this file.
 
 ## 3.0.0
 
-- Independency of Visual Studio Code Theme Converter
+- Independence of Visual Studio Theme Converter
 
 ## 3.0.1
 
-- Fixed Tab Buttons
+- Fixed bug in Visual Studio Theme version
+
+## 3.0.2
+
+- Added JetBrains Theme in Preview/Development state
+
+## 3.0.3
+
+- Fixed bug in JetBrains Theme related to the name of the theme
+
+## 3.0.4
+
+- Fixed bug in JetBrains Theme related to the scheme
+
+## 3.0.5
+
+- Changed background colors of the JetBrains Theme
+
+## 3.1.6
+
+- Changed version because of the JetBrains Theme addition
+- Reverted some background colors

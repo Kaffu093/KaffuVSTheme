@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Cappuccino's Theme" GUID="{581d4418-646f-42f2-9cbc-f25962cc7f28}" BaseGUID="{142bb7b1-a244-46ff-9774-699e20e10d9f}">
+  <Theme Name="Cappuccino's Theme" GUID="{77f7c712-e154-43ec-8cb2-69837bbca143}" BaseGUID="{581d4418-646f-42f2-9cbc-f25962cc7f28}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF0475CF" />
