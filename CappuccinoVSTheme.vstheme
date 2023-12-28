@@ -3395,11 +3395,7 @@
         <Background Type="CT_RAW" Source="FFD6D6D6" />
       </Color>
       <Color Name="CommandBarSelectedIconDisabled">
-<<<<<<< HEAD
-        <Background Type="CT_RAW" Source="FF193254" />
-=======
         <Background Type="CT_RAW" Source="FF2E2E2E" />
->>>>>>> 9f75cb25e03bc8c829f9a80d43a9df9fa7ea5823
       </Color>
       <Color Name="ControlEditHintText">
         <Background Type="CT_RAW" Source="FFD6D6D6" />
