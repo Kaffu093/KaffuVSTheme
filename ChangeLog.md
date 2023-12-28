@@ -227,3 +227,15 @@ All notable changes to this project will be documented in this file.
 
 - Changed version because of the JetBrains Theme addition
 - Reverted some background colors
+
+## 3.2.0
+
+- Changed various colors of the theme in general
+
+## 3.2.1
+
+- Fixed color of Breadcrumb
+
+## 3.2.2
+
+- Fixed various colors
