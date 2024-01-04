@@ -239,3 +239,27 @@ All notable changes to this project will be documented in this file.
 ## 3.2.2
 
 - Fixed various colors
+
+## 3.2.3
+
+- Fixed some Scheme Colors in JetBrains Theme
+
+## 3.2.4
+
+- Fixed another scheme colors in JetBrains Theme
+
+## 3.3.0
+
+- Changed various colors of the theme in general to generate more contrast between the colors
+
+## 3.3.1
+
+- Fixed Visual Studio Code theme colors
+
+## 3.3.2
+
+- Fixed Quick Menu colors in Visual Studio Code
+
+## 3.3.3
+
+- Fixed Title bar colors in Visual Studio Code
